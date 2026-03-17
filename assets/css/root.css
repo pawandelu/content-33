@@ -1,0 +1,12 @@
+:root {
+    /* Colors */
+    --primery-color: rgba(235, 234, 237, 0.5);
+    --secondry-color: rgba(30, 14, 98, 1);
+    --main-color: rgba(21, 20, 57, 0.4);
+    /* Line Height */
+    --line-hight: 26px;
+    /* Font size */
+
+    /* Others */
+    --padding: 24px;
+}
